@@ -1,2 +1,3 @@
 # singlePageApp
 my info
+bye
